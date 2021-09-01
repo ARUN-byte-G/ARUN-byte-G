@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARUN-byte-G
 - 👀 I’m interested in Software application Developer and Computer system Engineer
-- 🌱 I’m currently learning languages. Basically working on C .
+- 🌱 I’m currently learning languages. Basically working on C++ / Java .
 - 💞️ I’m looking to collaborate on _________ NOthing .
-- 📫 How to reach me just Text me on whatsapp 9465763819
+- 📫 How to reach me just Text me .
 
 <!---
 ARUN-byte-G/ARUN-byte-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
